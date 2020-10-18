@@ -1,10 +1,14 @@
 ## How to run the App
 
+```bash
+
 docker-compose build
 docker-compose run -d blueplanet /bin/bash
 
 DOCKER_BOX="Docker box Container ID"
 winpty docker exec -it $DOCKER_BOX jupyter notebook --port 8080 --ip 172.51.0.2 --allow-root
+
+```
 
 ## Description
 
@@ -15,3 +19,5 @@ Solutions for Food Forests and effective soil testing are modeled in this reposi
 
 ## Team
 
+@Jdavid1997
+@aswinvk28
