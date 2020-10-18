@@ -17,6 +17,14 @@ Please checkout out the link address [https://aswinkv28.wixsite.com/blueplanet](
 
 Solutions for Food Forests and effective soil testing are modeled in this repository. We take GIS datasets and create Machine Learning models that fit our design for key regions of improvement. 
 
+## Datasets
+
+### Nitrogen fertilizer
+![./datasets/nfertilizer_global.png](./datasets/nfertilizer_global.png)
+
+### Phosphorous fertilizer
+![./datasets/pfertilizer_global.png](./datasets/pfertilizer_global.png)
+
 ## Team
 
 @Jdavid1997
